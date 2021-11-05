@@ -19,3 +19,7 @@ Support: yes, use the support stl.
 Printed in half scale.
 
 ![](Giant%20UM2%20Nozzle%20half%20scale.jpg)
+
+Ultimaker 2 for scale. 5 nozzles.
+
+![](Giant%20UM2%20Nozzles%20in%20Ultimaker%202%20printer.jpg)
