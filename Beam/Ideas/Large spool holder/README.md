@@ -7,6 +7,7 @@ Connect all the pieces with M3x10 (or x8 or x14, does not matter that much).
 Finish with putting some sticky or slide pads on the bottom corners.
 
 2.3kg spool on finished spool holder:
+
 ![](Large%20spool%20holder.jpg)
 
 
