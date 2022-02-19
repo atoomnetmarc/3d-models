@@ -1,4 +1,4 @@
-This contraption holds a large 2.3kg filament spool. 4kg or 1kg spools should also work.
+This contraption holds a large 2.3kg filament spool. 4kg or 1kg spools should also work (up to 420mm diameter by 114mm wide), although untested.
 
 Put some 20mm wide wire harness tape on the curved edges of the slider block where the spool rests on. This will give a smooth screechless motion when unspooling during printing.
 
