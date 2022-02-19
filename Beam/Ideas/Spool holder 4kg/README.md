@@ -8,7 +8,7 @@ Finish with putting some sticky or slide pads on the bottom corners.
 
 2.3kg spool on finished spool holder:
 
-![](Large%20spool%20holder.jpg)
+![](Spool%20holder%204kg.jpg)
 
 
-![](Large%20spool%20holder.png)
+![](Spool%20holder%204kg.png)
