@@ -6,9 +6,9 @@ Print parts in any orientation you see fit. Your printer needs to be able to pri
 
 Use 28 (or so) M3x15 (or x20 does not matter that much) screws to assemble.
 
-Stick some 15mm wide automotive cloth wrapping tape on upper connectors where the front of the laptop rests against to prevent scratches.
-
-Stick 4 sticky or slide pads on the bottom 4 corners to prevent scratching your desk.
+Stick some 15mm wide automotive cloth wrapping tape on upper connectors where the front of the laptop rests against to prevent scratches.\
+Stick 4 slide pads on the bottom 4 corners to prevent scratching your desk.\
+Stick 4 sticky pads on the ends of the angled beams so that the underside of your laptop is supported.
 
 # Print stats for my Ultimaker 2
 
