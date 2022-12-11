@@ -23,9 +23,9 @@ Stick 4 sticky or slide pads on the bottom 4 corners to prevent scratching your 
 | 1515-m3-4s-200mm-x7.stl                               | 7         | 34:18         | 22.4m
 | 1515-m3-4s-165mm-x4.stl                               | 4         | 15:57         | 10.46m
 
-Total continues print time: 2 day 19 hours and 52 minutes
-Total filament (2.85mm) length used: 46.7m
-Estimated total weight: 0.37kg
+Total continues print time: 2 day 19 hours and 52 minutes\
+Total filament (2.85mm) length used: 46.7m\
+Estimated total weight: 0.37kg\
 Glory: forever
 
 # Disclaimer
