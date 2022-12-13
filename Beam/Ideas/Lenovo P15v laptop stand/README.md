@@ -2,6 +2,8 @@ This thing hold a Lenovo P15v laptop.
 
 ![](Lenovo%20P15v%20laptop%20stand.png)
 
+![](3d%20printed%20laptop%20stand.jpg)
+
 Print parts in any orientation you see fit. Your printer needs to be able to print 200mm Z. All parts except both Upper-connectors print standing up. Use brim if parts fall over during print. I printed mine in PLA.
 
 Use 28 (or so) M3x15 (or x20 does not matter that much) screws to assemble.
